@@ -1,6 +1,7 @@
 ![](https://i2.wp.com/embernite.net/wp-content/uploads/2018/10/cropped-Logo2.png?w=400)
 # Mod-Pack
 The Embernite.net Mod Pack
+![](https://i0.wp.com/www.embernite.net/wp-content/uploads/2018/12/Annotation-2018-12-19-220347.jpg?w=750)
 ![](https://i.imgur.com/3VyMbFs.png)
 
 # Resources
