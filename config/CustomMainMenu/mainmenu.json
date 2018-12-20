@@ -11,9 +11,9 @@
 		"logo":
         {
             "image" : "embernite:menu/logo.png",
-            "posX" : -32,
+            "posX" : -50,
             "posY" : -110,
-            "width" : 64,
+            "width" : 100,
             "height" : 64,
             "alignment" : "center"
         }		
@@ -21,7 +21,7 @@
     "buttons":{
         "singleplayer":{
             "text":"Play Offline",
-			"hoverText":"..:.:: Play Offline ::.:..",
+			"hoverText":">> Play Offline <<",
 			"hoverTextColor":"16711680",
             "texture":"embernite:menu/longbutton.png",
             "posX":-80,
@@ -37,8 +37,8 @@
             }
         },
         "multiplayer":{
-            "text":"Connect to Resist.Network",
-			"hoverText":"..:.:: Connect to Embernite ::.:..",
+            "text":"Connect to our Server",
+			"hoverText":">> Connect to our Server <<",
 			"hoverTextColor":"16711680",			
             "texture":"embernite:menu/longbutton.png",
             "posX":-80,
@@ -55,7 +55,7 @@
         },
         "forum":{
             "text":"Visit the Forum",
-			"hoverText":">> Visit the Website <<",
+			"hoverText":">> Visit the Forum <<",
 			"hoverTextColor":"8421504",			
             "texture":"embernite:menu/longbutton.png",
             "posX":-80,
@@ -125,7 +125,7 @@
         },
         "quit":{
             "text":"Close the Game",
-			"hoverText":"..:.:: Close the Game ::.:..",
+			"hoverText":">> Close the Game <<",
 			"hoverTextColor":"16711680",			
             "texture":"embernite:menu/longbutton.png",
             "posX":-80,
