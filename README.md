@@ -8,7 +8,7 @@ Website - https://www.embernite.net
 
 GitHub Organization - https://www.github.com/Embernite
 
-Trello - https://www.github.com/Embernite
+Trello - https://trello.com/b/3V6Gs4b8/embernite-roadmap
 
 Discord - https://discord.gg/Z3DkdsX
 
