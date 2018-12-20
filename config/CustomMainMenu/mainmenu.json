@@ -49,8 +49,8 @@
             "imageHeight":20,
             "alignment":"center",
             "action":{
-                "type":"openGui",
-                "gui":"multiplayer"
+                "type":"connectToServer",
+                "ip":"172.106.203.23:25661"
             }
         },
         "forum":{
