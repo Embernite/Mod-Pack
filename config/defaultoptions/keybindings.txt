@@ -34,7 +34,6 @@ key_key.hotbar.9:10:NONE
 key_key.staff_mode.desc:50:NONE
 key_key.use_cage.desc:49:NONE
 key_csb_armorstand.key.openArmorStandGui:42:NONE
-key_quark.keybind.toggleAutojump:48:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -55,6 +54,7 @@ key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
 key_quark.keybind.playerSort:0:NONE
+key_quark.keybind.toggleAutojump:48:NONE
 key_quark.keybind.lockBuilding:37:NONE
 key_key.conarm.toggle_helm.desc:34:NONE
 key_key.conarm.toggle_chest.desc:35:NONE
