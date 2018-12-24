@@ -11,7 +11,7 @@ GitHub Organization - https://www.github.com/Embernite
 
 Trello - https://trello.com/b/3V6Gs4b8/embernite-roadmap
 
-Discord - https://discord.gg/Z3DkdsX
+Discord - https://discord.gg/speq6H5
 
 Twitter - https://www.twitter.com/embernite
 
